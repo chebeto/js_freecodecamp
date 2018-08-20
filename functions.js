@@ -9,7 +9,7 @@ function cuadrado(numero) {
 }
 
 console.log(cuadrado(6));
-
+s
 
 var variable1 = "Sombreros";
 function compras() {
