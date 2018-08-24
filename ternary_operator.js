@@ -2,7 +2,7 @@
 
 // condicion ? expresion1 : expresion2
 
-var edad = 19
+var edad = 15
 if (edad >= 18) {
   console.log("Eres un adulto");
 } else {
@@ -11,7 +11,7 @@ if (edad >= 18) {
 
 // El codigo arriba se puede reducir de la siguiente forma usando un operador ternario:
 
-console.log((edad >= 18) ? "Eres un adulto" : "Eres un menor");
+console.log((edad >= 19) ? "Eres un menor" : "Eres un adulto");
 
 // Un ternario dentro de otro ternario
 

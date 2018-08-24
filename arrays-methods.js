@@ -28,4 +28,4 @@ console.log(arr.slice(1,3)); // Imprime la seleccion del arreglo que se especifi
 
 console.log(arr.sort(arr)); // Ordena el arreglo alfabeticamete
 
-console.log(arr.splice(2,2, "NUEVO ELEMENTO DEL ARREGLO")); // En este caso, separa los elementos de
+console.log(arr.splice(2,2, "NUEVO ELEMENTO DEL ARREGLO")); // En este caso, separa los elementos de un array, contando desde la segunda casilla y contando 2 casillas más, despues de eso, inserta el elemento "NUEVO ELEMENTO..."
