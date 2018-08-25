@@ -11,3 +11,5 @@ do {
   i++; // Suma 1 a i
   console.log("i = " + i); // imprime i
 } while (i < 5); // MIENTRAS i sea menor que 5
+
+// La princial diferencia consiste que en que While revisa la condicion antes de sumar y el Do While realiza la suma y despues ejecuta la condicion
